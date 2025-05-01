@@ -1,0 +1,5 @@
+# Ignore all images in public
+public/images/**
+
+# But allow the index JSON file
+!public/images-index.json
